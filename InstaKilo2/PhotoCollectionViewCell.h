@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  PhotoCollectionViewCell.h
 //  InstaKilo2
 //
 //  Created by swcl on 2017-07-12.
@@ -8,8 +8,8 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+@interface PhotoCollectionViewCell : UICollectionViewCell
+
 
 
 @end
-
